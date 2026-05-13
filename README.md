@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Yash Deshmukh 👋
 
-<!--
-**YashDeshmukh45/YashDeshmukh45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring DevOps & IT Operations Engineer
 
-Here are some ideas to get you started:
+I am passionate about:
+- Linux Administration
+- Networking
+- DevOps
+- Cloud Infrastructure
+- Monitoring & Troubleshooting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building practical projects and improving my technical skills through hands-on learning.
+
+## Tech Stack
+- Linux
+- Git & GitHub
+- Networking
+- HTML/CSS/JavaScript
+- Datadog
+- Cloud Basics
+
+## Goals
+- Become a strong DevOps Engineer
+- Build real-world infrastructure projects
+- Contribute to impactful products
